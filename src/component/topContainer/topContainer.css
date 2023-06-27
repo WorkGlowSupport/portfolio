@@ -1,0 +1,10 @@
+.topContainer{
+    background: url(../../assets/IMG_20230625_135810.jpg) no-repeat center;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
+}
+.line{
+    border: 1px solid white;
+}
